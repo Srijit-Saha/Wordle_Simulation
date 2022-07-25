@@ -1,5 +1,8 @@
 # Wordle_Simulation
 
+ Created by Bharath Ravilla Kumar, Srijit Saha, and Moumi Roy.
+
+
  ***************************************************************************************************
  
 Kanji_simulator.py - 
@@ -22,4 +25,3 @@ However, here each user score is generated from the same underlyiing distributio
 
  ***************************************************************************************************
  
- Created by Bharath Ravilla Kumar, Srijit Saha, and Moumi Roy.
