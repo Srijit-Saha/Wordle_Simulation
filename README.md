@@ -3,7 +3,7 @@
  Created by Bharath Ravilla Kumar, Srijit Saha, and Moumi Roy.
 
 
- ***************************************************************************************************
+***************************************************************************************************
  
 Kanji_simulator.py - 
  
@@ -23,5 +23,7 @@ User profiles have also not been taken into account.
 In reality, different users may have different memory skills enabling them to remember more or less.
 However, here each user score is generated from the same underlyiing distribution.
 
- ***************************************************************************************************
+For more information, briefly browse through the SM2 documentation at Supermemo.pypi
+
+***************************************************************************************************
  
